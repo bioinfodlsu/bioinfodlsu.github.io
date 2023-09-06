@@ -1,0 +1,71 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+- name: Franz S. Dizon
+  photo: rock.jpg
+  info: MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Paul K. Yu
+  photo: rock.jpg
+  info: MS Math
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Mark E. Gonzales
+  photo: rock.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Kim W. Lee, Jra.
+  photo: rock.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Daphne J. Go
+  photo: rock.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Rese Ureta
+  photo: rock.jpg
+  info: BS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Phoene Ong
+  photo: rock.jpg
+  info: BS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Alfonso M. Cruz
+  photo: rock.jpg
+  info: BS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Erica Bernardo
+  photo: rock.jpg
+  info: BS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
