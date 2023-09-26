@@ -51,8 +51,8 @@ permalink: /
 
 We are a bunch of cool people.
 
-We do cool stuff. See some of our cool past and present [Projects](projects)).
+We do cool stuff. See some of our cool past and present [Projects](projects).
 
-Want to [(join us?)](join_us)
+Want to [join us?](join_us)
 
 We are grateful for funding from here, there, and everywhere.

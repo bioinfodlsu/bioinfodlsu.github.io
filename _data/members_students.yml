@@ -15,28 +15,28 @@
   education1:
 
 - name: Paul K. Yu
-  photo: rock.jpg
+  photo: paul-yu.jpg
   info: MS Math
   email: a@b.c
   number_educ: 0
   education1:
 
 - name: Mark E. Gonzales
-  photo: rock.jpg
+  photo: mark.jpg
   info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
   education1:
 
 - name: Kim W. Lee, Jra.
-  photo: rock.jpg
+  photo: kim.jpg
   info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
   education1:
 
 - name: Daphne J. Go
-  photo: rock.jpg
+  photo: daphne.jpg
   info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
@@ -49,15 +49,15 @@
   number_educ: 0
   education1:
 
-- name: Phoene Ong
-  photo: rock.jpg
+- name: Phoebe Ong
+  photo: phoebe.jpg
   info: BS Computer Science
   email: a@b.c
   number_educ: 0
   education1:
 
 - name: Alfonso M. Cruz
-  photo: rock.jpg
+  photo: miguel.jpg
   info: BS Computer Science
   email: a@b.c
   number_educ: 0
