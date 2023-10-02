@@ -6,6 +6,10 @@ sitemap: false
 permalink: /
 ---
 
+#### Our focus
+Modern-day biology is a data-driven field, thanks largely to the advances in high-throughput sequencing technologies.
+The Bioinformatics Lab brings together faculty members and students interested in deploying the arsenal of computer science and computer engineering to solve problems in computational biology. We work on topics such as: algorithms and software for high-throughput sequencing data analysis, bioinformatics for diseases and epidemics, computer architecture for bioinformatics algorithms, etc. See some of our [projects](projects), [publications](publications), and [software](http://github.com/bioinfodlsu).
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -48,11 +52,11 @@ permalink: /
   </a>
 </div>
 
+#### Our collaborators
+Given the interdisciplinary nature of our research, we collaborate with several research groups including: Practical Genomics Lab (CENSER, DLSU), Systems and Computational Biology Unit (CENSER, DLSU), Translational Medicine Unit (CENSER, DLSU), Department of Computational Biology and Medical Sciences, the University of Tokyo, International Rice Research Institute, National Institute of Health UP Manila, Southeast Asian Fisheries Development Center.
 
-We are a bunch of cool people.
+#### Our funders
+Our present and past projects have been funded by DOST-PCAARD, DOST-PCHRD, the e-Asia JRP program, DLSU-RGMO.
 
-We do cool stuff. See some of our cool past and present [Projects](projects).
-
-Want to [join us?](join_us)
-
-We are grateful for funding from here, there, and everywhere.
+#### Join us
+We are always looking for energetic and driven students to [join us.](join_us)
