@@ -5,19 +5,25 @@ excerpt: "Bioinfo Lab: Projects"
 sitemap: false
 permalink: /projects/
 ---
-Here are some recent and past projects (in no particular order).
+# Projects
 
-## Phage host prediction
-This is cool
+Here are some ongoing and past projects.
 
-## Post-GWAS analysis
-This is also cool
+## Bioinformatics for combatting anti-microbial resistance
+Anti-microbial resistance (AMR) occurs when pathogens evolve to resist medicines used to treat their infection.
+WHO has declared it as one of the top health threats to humanity.
+Our lab, along with our collaborators in SComB and the e-Asia JRP ATTACK-AMR project, are using metagenomics to understand the abundance and diversity of AMR-related genes hospital waste-waters.
+Another angle of attack on AMR is phage therapy, an alternative to conventional anti-biotics, the heavy and loosely regulated use of which has been exacerbating the AMR crisis.
+Given that lab experiments to study phages be costly and tedious, our lab is investigating state-of-the-art machine learning techniques to aid in phage characterization.
 
-## Metagenomic surveillance of AMR genes and pathogens
-This is even cooler.
-
-## HIV Bioinformatics
-This is cooler than cooler.
+## Computational interpretation of genomic regions implicated by genome-wide association studies in rice
+Rice feeds half of humanity. The production of rice needs to match human populatoin growth while being environmentally sustainable and climate-change resilient. These challenges have motivated the identificatio of genetic factors behind agronomically important traits, often using genome-scale techniques such as QTL analysis or genome-wide association studies (GWAS). These studies report regions in the genome that are statistically significant, but remain short of explaining the biological significance. Our lab has been working on software solutions to gain biological insights on statistically significant genomic sites.  
 
 ## Differential gene expression analysis for non-model organisms
-This is super cool
+RNA-seq is being increasingly adopted for gene expression studies in a panoply of non-model organisms, with applications spanning the fields of agriculture, aquaculture, ecology, and environment. For organisms that lack a well-annotated reference genome or transcriptome, a conventional RNA-seq data analysis workflow requires constructing a de-novo transcriptome assembly and annotating it against a high-confidence protein database. We propose a shortcut that avoids computationally demanding assembly process, and instead obtain counts for differential expression analysis by directly aligning RNA-seq reads to the high-confidence proteome that would have been otherwise used for annotation.
+
+## Bioinformatics for HIV surveillance
+The landscape of molecular surveillance for HIV is undergoing a significant transformation, shifting from the conventional Sanger sequencing approach towards the utilization of modern high-throughput sequencers. This shift has necessitated the construction of bioinformatics pipelines for analyzing the big data output of these sequencers. Our lab is working towards a pipeline that improves accuracy by taking into account the high mutation and recombination rates seen in HIV.
+
+## Bioinformatics for cancer genomics
+In collaboration with DLSU's Translational Research and Medicine Unit and St. Lukes Hospital, our lab is applying modern multi-omics technologies on commercial cell lines as well as real patient tissues, to investigate regulated cell deaths in the context of colorectal cancer. 
