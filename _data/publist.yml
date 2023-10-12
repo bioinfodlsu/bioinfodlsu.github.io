@@ -37,7 +37,7 @@
 - title: "SIMD Implementation of Modified Zhang’s Three-Frame Alignment Algorithm"
   image:
   description:
-  authors: Stanley Vincent Lim, Steven Edward Lim, Carlos Louis Ting, Aaron Eldrich Wong, and Roger Luis Uy
+  authors: Stanley Vincent Lim, Steven Edward Lim, Carlos Louis Ting, Aaron Eldrich Wong, Roger Luis Uy
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9731997
     display: 2021 IEEE 13th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM), 2021, pp. 1-6.
@@ -46,7 +46,7 @@
 - title: "Identifying drug-resistant tuberculosis from chest X-ray images using a simple convolutional neural network"
   image:
   description:
-  authors: Jennifer Ureta and Anish M.S. Shrestha
+  authors: Jennifer Ureta, Anish M.S. Shrestha
   link:
     url: https://iopscience.iop.org/article/10.1088/1742-6596/2071/1/012001
     display: Journal of Physics, Conference Series, Vol 2071, International Conference on Biomedical Engineering (ICoBE) 2021.
