@@ -111,3 +111,18 @@ body {
 #gridid {
 	min-height: 100vh;
 }
+
+.flex {
+	display: flex;
+}
+
+.pub-pic {
+	justify-content: center;
+	padding-right: 0;
+	padding-left: 15px;
+}
+
+.pub-text {
+	align-items: center;
+}
+

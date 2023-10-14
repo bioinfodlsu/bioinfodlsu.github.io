@@ -6,7 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 ### Journal articles and conference presentations
 
 <!--
@@ -53,8 +52,15 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-  {{publi.no-link}}
+<div class="row flex">
+<div class="col-auto flex pub-pic">
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" style="float: left; width: 75px;" />
+</div>
+<div class="col-sm-10 flex pub-text">
+<a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a> <br />
+<em>{{ publi.authors }} </em><br />{{ publi.link.display }}
+{{publi.no-link}}
+</div>
+</div>
 
 {% endfor %}
