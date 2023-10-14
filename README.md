@@ -3,7 +3,7 @@
 This is the website of the Bioinformatics Laboratory at DLSU.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
-We adapted it from the website of [Allan Lab](www.allanlab.org).
+We adapted it from the website of [Allan Lab](https://www.allanlab.org/).
 
 It is hosted on Github Pages.
 
