@@ -37,9 +37,6 @@ pubtit {
 	font-weight: bold;
 }
 
-firstp {
-}
-
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
@@ -120,6 +117,12 @@ body {
 	justify-content: center;
 	padding-right: 0;
 	padding-left: 15px;
+}
+
+.pub-img {
+	float: left;
+	aspect-ratio: 1;
+	width: 75px;
 }
 
 .pub-text {
