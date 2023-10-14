@@ -57,8 +57,8 @@ permalink: /publications/
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" style="float: left; width: 75px;" />
 </div>
 <div class="col-sm-10 flex pub-text">
-<a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a> <br />
-<em>{{ publi.authors }} </em><br />{{ publi.link.display }}
+{% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a> {% else %}{{ publi.title }}{% endif %}
+<br /><em>{{ publi.authors }} </em><br />{{ publi.link.display }}
 {{publi.no-link}}
 </div>
 </div>
