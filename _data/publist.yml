@@ -40,10 +40,10 @@
   authors: Aaron Eldrich Wong, Carlos Louis Ting, Stanley Vincent Lim, Steven Edward Lim, Roger Luis Uy, Rayner Alfred, Zamhar Iswandono
   link:
       url: https://link.springer.com/chapter/10.1007/978-981-19-8406-8_23
-      display: Proceedings of the 9th International Conference on Computational Science and Technology, 2022
+      display: Proceedings of the 9th International Conference on Computational Science and Technology, 2022.
   highlight: 0
 
-- title: "SIMD Implementation of Modified Zhang’s Three-Frame Alignment Algorithm"
+- title: "SIMD Implementation of Modified Zhang's Three-Frame Alignment Algorithm"
   image: dummy.png
   description:
   authors: Stanley Vincent Lim, Steven Edward Lim, Carlos Louis Ting, Aaron Eldrich Wong, Roger Luis Uy
@@ -90,14 +90,14 @@
   image: dummy.png
   description:
   authors: Anish M.S. Shrestha, Crissa Ann I. Lilagan, Ma. Carmen A. Lagman
-  no-link: In Proceedings of the DLSU Research Congress 2021, Manila, Philippines, 2021.
+  no-link: Proceedings of the DLSU Research Congress 2021, Manila, Philippines, 2021.
   highlight: 0
 
 - title: "On the Complexity of Reducing Storage for DNA q-gram Index Hash Table"
   image: dummy.png
   description:
   authors: Candace Claire Mercado, Saira Kaye Manalili, Aaron Russell Fajardo, Raphael Zapanta, Roger Luis Uy
-  no-link: In Proceedings of the 2020 Philippine Computing Science Congress (PCSC 2020), Baguio, Philippines, 2020, pp. 118-124.
+  no-link: Proceedings of the 2020 Philippine Computing Science Congress (PCSC 2020), Baguio, Philippines, 2020, pp. 118-124.
   highlight: 0
 
 - title: "Implementation of hyyrö’s bit-vector algorithm using advanced vector extensions 2"
