@@ -34,6 +34,16 @@
     display: BMC Genomics 23, 97 (2022).
   highlight: 0
 
+- title: Complementary Preparation for Frame Alignment Algorithms Using PYNQ-Z2 FPGA
+  image:
+  description:
+  authors: Aaron Eldrich Wong, Carlos Louis Ting, Stanley Vincent Lim, Steven Edward Lim, Roger Luis Uy, Rayner Alfred & Zamhar Iswandono
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-981-19-8406-8_23
+    display: Proceedings of the 9th International Conference on Computational Science and Technology, 2022
+  highlight: 0
+
+
 - title: "SIMD Implementation of Modified Zhang’s Three-Frame Alignment Algorithm"
   image:
   description:
@@ -65,7 +75,7 @@
 - title: "Multiprocessing Implementation for Building a DNA q-gram Index Hash Table"
   image:
   description:
-  authors: Candace Claire Mercado, Aaron Russell Fajardo, Saira Kaye Manalili, Raphael Zapanta, Roger Luis Uy 
+  authors: Candace Claire Mercado, Aaron Russell Fajardo, Saira Kaye Manalili, Raphael Zapanta, Roger Luis Uy
   link:
     url: https://doi.org/10.1007/978-981-33-4069-5_16
     display: Alfred R., Iida H., Haviluddin H., Anthony P. (eds) Computational Science and Technology. Lecture Notes in Electrical Engineering, vol 724. Springer, 2021.

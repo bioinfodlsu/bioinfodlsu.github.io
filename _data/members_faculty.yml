@@ -1,6 +1,6 @@
 - name: <a href="https://www.a-transposable-element.com">Anish Shrestha</a>
   photo: anish.jpg
-  info: Associate Professor
+  info: Associate Professor, Dept. of Software Technology
   email: a@b.c
   number_educ: 0
   education2: PhD Tokyo Institute of Technology
@@ -10,23 +10,23 @@
 
 - name: <a href="https://scholar.google.com/citations?user=v0Tf_u4AAAAJ&hl=en">Jennifer Ureta</a>
   photo: jenny.jpg
-  info: on leave (currently at WEHI <a href="https://www.wehi.edu.au/laboratory/papenfuss-lab"> Papenfuss Lab</a>)
+  info: Assistant Professor, Dept. of Software Technology (on leave, currently at WEHI <a href="https://www.wehi.edu.au/laboratory/papenfuss-lab"> Papenfuss Lab</a>)
   email: a@b.c
   number_educ: 0
   education1:
   education2:
   education3:
 
-- name: <a href="https://scholar.google.com/citations?user=4l3OqhwAAAAJ&hl=en&oi=ao">Roger Uy</a>
-  photo: bio-photo.jpg
-  info: Assistant Professor
+- name: <a href="https://scholar.google.com/citations?user=4l3OqhwAAAAJ&hl=en&oi=ao">Roger Luis Uy</a>
+  photo: roger_luis_uy.jpg
+  info: Assistant Professor, Dept. of Computer Technology
   email: a@b.c
   number_educ: 0
   education1:
 
-- name: <a href="https://scholar.google.com/citations?user=mjcfo5gAAAAJ&hl=en&oi=aoAnn">Franchesca Laguna</a>
+- name: <a href="https://scholar.google.com/citations?user=mjcfo5gAAAAJ&hl=en&oi=aoAnn">Ann Franchesca Laguna</a>
   photo: ann_franchesca_laguna.jpg
-  info: Assistant Professor
+  info: Assistant Professor, Dept. of Computer Technology
   email: a@b.c
   number_educ: 0
   education1:
