@@ -91,3 +91,23 @@ firstp {
     margin-right: 30px;
 }
 
+/* Custom styling */
+
+body {
+	min-height: 100vh;
+}
+
+#footer {
+	margin-top: 2em;
+	margin-bottom: 0;
+	border-width: 4px 1px 0 1px;
+	border-color: #e7e7e7;
+}
+
+.panel-footer {
+	padding-top: 25px;
+}
+
+#gridid {
+	min-height: 100vh;
+}
