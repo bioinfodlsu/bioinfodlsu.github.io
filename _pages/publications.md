@@ -50,7 +50,10 @@ permalink: /publications/
 ## Full List of publications
 -->
 
-{% for publi in site.data.publist %}
+{% assign publi_grouped = site.data.publist | sort: "year" | reverse | group_by: "year" %}
+{% for group in publi_grouped %}
+<h4>{{group.name}}</h4>
+{% for publi in group.items %}
 
 <div class="row flex">
 <div class="col-auto flex pub-pic">
@@ -63,4 +66,5 @@ permalink: /publications/
 </div>
 </div>
 
+{% endfor %}
 {% endfor %}
