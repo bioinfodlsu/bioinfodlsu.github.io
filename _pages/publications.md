@@ -50,7 +50,7 @@ permalink: /publications/
 ## Full List of publications
 -->
 
-{% assign publi_grouped = site.data.publist | group_by: "year" %}
+{% assign publi_grouped = site.data.publist | group_by: "year" | sort: "name" | reverse %}
 {% for group in publi_grouped %}
 <h4>{{group.name}}</h4>
 {% for publi in group.items %}
