@@ -32,13 +32,13 @@ See some of our [projects](projects), [publications](publications), and [softwar
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf.png" alt="RicePilaf - Lift-Over" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/phipred.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/phipred.png" alt="Phage-Host Interaction - Methodology" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf2.PNG" alt="RicePilaf - Module Graph" />
         </div>
     </div>
 
