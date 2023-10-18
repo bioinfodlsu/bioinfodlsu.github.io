@@ -14,7 +14,7 @@ The **Bioinformatics Lab at De La Salle University** brings together faculty mem
 
 We work on topics such as algorithms and software for high-throughput sequencing data analysis, bioinformatics for diseases and epidemics, and computer architecture for bioinformatics algorithms, among others.
 
-See some of our [projects](projects){:target="\_blank"}, [publications](publications){:target="\_blank"}, and [software](http://github.com/bioinfodlsu){:target="\_blank"}.
+See some of our [projects](projects), [publications](publications), and [software](http://github.com/bioinfodlsu){:target="\_blank"}.
 
 <br>
 
@@ -90,4 +90,4 @@ Our present and past projects have been funded by:
 
 ### Join Us
 
-We are always looking for energetic, driven, and curious students to [join us](join_us){:target="\_blank"}.
+We are always looking for energetic, driven, and curious students to [join us](join_us).
