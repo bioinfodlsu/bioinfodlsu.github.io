@@ -134,3 +134,19 @@ body {
 	margin: 0;
 }
 
+.carousel .item {
+	height: 20em;
+}
+
+#homeid img {
+	border-radius: 2%;
+	object-fit: cover;
+}
+
+.carousel-indicators .active {
+	background-color: #cedada;
+}
+
+.carousel-indicators li {
+	border: 2px solid #cedada;
+}
