@@ -1,5 +1,17 @@
 <div class="well">
-    <h4>News</h4>
+    <span
+        ><a
+            href="http://github.com/bioinfodlsu"
+            target="_blank"
+            style="text-decoration: none; color: #555555"
+            ><i class="fab fa-github" style="margin-right: 0.75em"></i></a
+        >View our projects on
+        <a href="http://github.com/bioinfodlsu" target="_blank">GitHub</a></span
+    >
+</div>
+
+<div class="well">
+    <h4 style="margin-top: 0.25em">News</h4>
 
     {% for article in site.data.news limit:5 %}
     <p>{{ article.date }}<br />{{ article.headline | markdownify}}</p>
