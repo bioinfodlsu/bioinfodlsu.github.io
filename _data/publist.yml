@@ -6,6 +6,7 @@
 #    url: https://arxiv.org/abs/2205.10346
 #    display: arXiv:2205.10346 (2022)
 #  highlight: 1
+#  year: 2022
 
 - title: "Protein embeddings improve phage-host interaction prediction"
   image: mark_phi.png
@@ -15,6 +16,7 @@
       url: https://doi.org/10.1371/journal.pone.0289030
       display: PLoS ONE 18(7) (2023) e 0289030.
   highlight: 0
+  year: 2023
 
 - title: "DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms"
   image: dummy.png
@@ -24,6 +26,7 @@
       url: https://doi.org/10.1101/2022.12.15.520671
       display: GIW XXXI/ISCB-Asia V, Dec 12 – 14, 2022, Tainan, Taiwan (To appear in BMC Bioinformatics Supplement).
   highlight: 0
+  year: 2022
 
 - title: "Assembly-free rapid differential gene expression analysis in non-model organisms using DNA-protein alignment"
   image: dr_anish_assembly_free.webp
@@ -33,6 +36,7 @@
       url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08278-7
       display: BMC Genomics 23, 97 (2022).
   highlight: 0
+  year: 2022
 
 - title: Complementary Preparation for Frame Alignment Algorithms Using PYNQ-Z2 FPGA
   image: dummy.png
@@ -42,6 +46,7 @@
       url: https://link.springer.com/chapter/10.1007/978-981-19-8406-8_23
       display: Proceedings of the 9th International Conference on Computational Science and Technology, 2022.
   highlight: 0
+  year: 2022
 
 - title: "SIMD Implementation of Modified Zhang's Three-Frame Alignment Algorithm"
   image: dummy.png
@@ -51,6 +56,7 @@
       url: https://ieeexplore.ieee.org/abstract/document/9731997
       display: 2021 IEEE 13th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM), 2021, pp. 1-6.
   highlight: 0
+  year: 2021
 
 - title: "Identifying drug-resistant tuberculosis from chest X-ray images using a simple convolutional neural network"
   image: dummy.png
@@ -60,6 +66,7 @@
       url: https://iopscience.iop.org/article/10.1088/1742-6596/2071/1/012001
       display: Journal of Physics, Conference Series, Vol 2071, International Conference on Biomedical Engineering (ICoBE) 2021.
   highlight: 0
+  year: 2021
 
 - title: "Comparative transcriptome profiling of heat stress response of the mangrove crab Scylla serrata across different sites"
   image: dummy.png
@@ -69,6 +76,7 @@
       url: https://doi.org/10.1186/s12864-021-07891-w
       display: BMC Genomics 22, 580 (2021).
   highlight: 0
+  year: 2021
 
 - title: "Multiprocessing Implementation for Building a DNA q-gram Index Hash Table"
   image: dummy.png
@@ -78,6 +86,7 @@
       url: https://doi.org/10.1007/978-981-33-4069-5_16
       display: Alfred R., Iida H., Haviluddin H., Anthony P. (eds) Computational Science and Technology. Lecture Notes in Electrical Engineering, vol 724. Springer, 2021.
   highlight: 0
+  year: 2021
 
 - title: "Multiprocessing Implementation of Pigeonhole-based Filter for DNA Read Mapping,"
   image: dummy.png
@@ -85,6 +94,7 @@
   authors: Roger Luis Uy, Candace Claire Mercado, Aaron Russell Fajardo, Raphael Zapanta, Saira Kaye Manalili
   no-link: Proceedings of the DLSU Research Congress 2021, Manila, Philippines, 2021
   highlight: 0
+  year: 2021
 
 - title: "Wide-and-shallow vs. narrow-and-deep: comparing two transcriptome assemblies of S. serrata"
   image: dummy.png
@@ -92,6 +102,7 @@
   authors: Anish M.S. Shrestha, Crissa Ann I. Lilagan, Ma. Carmen A. Lagman
   no-link: Proceedings of the DLSU Research Congress 2021, Manila, Philippines, 2021.
   highlight: 0
+  year: 2021
 
 - title: "On the Complexity of Reducing Storage for DNA q-gram Index Hash Table"
   image: dummy.png
@@ -99,6 +110,7 @@
   authors: Candace Claire Mercado, Saira Kaye Manalili, Aaron Russell Fajardo, Raphael Zapanta, Roger Luis Uy
   no-link: Proceedings of the 2020 Philippine Computing Science Congress (PCSC 2020), Baguio, Philippines, 2020, pp. 118-124.
   highlight: 0
+  year: 2020
 
 - title: "Implementation of hyyrö’s bit-vector algorithm using advanced vector extensions 2"
   image: dummy.png
@@ -108,6 +120,7 @@
       url: https://doi.org/10.26555/ijain.v5i3.362
       display: International Journal of Advances in Intelligent Informatics, vol. 5, no. 3, pp. 230–242, Oct. 2019
   highlight: 0
+  year: 2019
 
 - title: "Grouped-alignment of RNA-seq reads for accurate prediction of splice sites"
   image: dummy.png
@@ -115,6 +128,7 @@
   authors: Anish M.S. Shrestha
   no-link: 6th International Conference on Molecular Systems Biology ICMSB 2019, Manila.
   highlight: 0
+  year: 2019
 
 - title: "Challenges in Sequence Analysis in the Era of Big Biological Data"
   image: dummy.png
@@ -122,6 +136,7 @@
   authors: Anish M.S. Shrestha
   no-link: Invited Talk, Philippine Computing Science Congress, Manila 2019.
   highlight: 0
+  year: 2019
 
 - title: "Biological sequence analysis in the era of high-throughput sequencers"
   image: dummy.png
@@ -129,3 +144,4 @@
   authors: Anish M.S. Shrestha
   no-link: Bioinformatics Symposium, Philippine Genome Center, Manila 2019.
   highlight: 0
+  year: 2019
