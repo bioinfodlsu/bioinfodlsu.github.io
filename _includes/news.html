@@ -14,10 +14,10 @@
     <h4 style="margin-top: 0.25em">News</h4>
 
     {% for article in site.data.news limit:5 %}
-    <p>{{ article.date }}<br />{{ article.headline | markdownify}}</p>
+    <p><b>{{ article.date }}</b><br />{{ article.headline | markdownify}}</p>
     {% endfor %}
 
-    <h5>
+    <h5 style="margin-top: 1.5em">
         <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">See all news</a>
     </h5>
 </div>
