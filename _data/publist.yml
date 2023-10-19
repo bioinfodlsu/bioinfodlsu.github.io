@@ -18,6 +18,16 @@
   highlight: 0
   year: 2023
 
+- title: "A Reconfigurable FeFET Content Addressable Memory for Multi-State Hamming Distance"
+  image: dr_chesca_fefet.gif
+  description:
+  authors: Liu Liu, Ann Franchesca Laguna, Ramin Rajaei, Mohammad Mehdi Sharifi, Arman Kazemi, Xunzhao Yin, Michael Niemier, Xiaobo Sharon Hu
+  link:
+      url: https://doi.org/10.1109/TCSI.2023.3259940
+      display: "IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 70, no. 6, pp. 2356-2369."
+  highlight: 0
+  year: 2023
+
 - title: "DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms"
   image: dummy.png
   description:
