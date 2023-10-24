@@ -6,9 +6,11 @@ sitemap: false
 permalink: /projects/
 ---
 
-# Projects
+### Our Projects
 
 Here are some ongoing and past projects.
+
+<br>
 
 {% for proj in site.data.projs %}
 
