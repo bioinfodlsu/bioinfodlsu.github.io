@@ -12,7 +12,7 @@ Modern-day biology is a data-driven field, thanks largely to the advances in hig
 
 The **Bioinformatics Lab at De La Salle University** brings together faculty members and students interested in deploying the arsenal of computer science and computer engineering to solve problems in computational biology.
 
-We work on topics such as algorithms and software for high-throughput sequencing data analysis, bioinformatics for diseases and epidemics, and computer architecture for bioinformatics algorithms, among others.
+We work on algorithms and software for high-throughput sequencing data analysis, bioinformatics for diseases and epidemics, computer architecture for bioinformatics algorithms, and similar topics that bridge computer science and biology.
 
 See some of our [projects](projects), [publications](publications), and [software](http://github.com/bioinfodlsu){:target="\_blank"}.
 
@@ -39,6 +39,9 @@ See some of our [projects](projects), [publications](publications), and [softwar
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf2.PNG" alt="RicePilaf - Module Graph" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/crabs_DEG.png" alt="RicePilaf - Module Graph" />
         </div>
     </div>
 

@@ -1,17 +1,24 @@
+- date: Feb 15, 2024
+  headline: Kim has been chosen to receive the Engineering Research and Development (ERDT) Scholarship for her graduate studies.
+
 - date: Jan 27, 2024
   headline: Anish speaks at the [Philippine Society for Microbiology Cluster 1 Symposium](https://www.psm.org.ph/2023/2023-cluster-1-symposium/) at Trinity University of Asia. Photos [here](https://www.facebook.com/watch/?v=1356863334813080){:target="\_blank"}.
+  pic: 20240127_PSM_Cluster1.jpg
+
+- date: Jan 26, 2024
+  headline: The group meets for some pizza. Yum!
+  pic: 20240126_pizza.jpeg
 
 - date: Dec 1, 2023
   headline: Mark bags the 2nd prize in the 2023 Magsaysay Future Engineers/Technologists Award given by the National Academy of Science and Technology. Presentation [here](https://fb.watch/oKx7G6gwLi/){:target="\_blank"}.
-
-- date: Sept 5, 2023
-  headline: We have a new website!
+  pic: 20231201_Mark_MFET.jpeg
 
 - date: July 24, 2023
   headline: Our [work](https://doi.org/10.1371/journal.pone.0289030){:target="\_blank"}, led by Mark, on applying protein embeddings to phage-host interaction prediction is published in PLoS ONE.
 
 - date: July 12, 2023
-  headline: Daphne and Mark conduct a workshop on the basics of R, jointly organized with the Systems and Computational Biology Unit, DLSU.
+  headline: Daphne, Mark, and Paul conduct a workshop on the basics of R, jointly organized with the Systems and Computational Biology Unit, DLSU.
+  pic: 20230712_R_workshop.png
 
 - date: June 19, 2023
   headline: 4 students from the Philippine Science High School System join the lab for a 3-week immersion program.
@@ -20,4 +27,4 @@
   headline: Kyle presents his [work](https://doi.org/10.1101/2022.12.15.520671){:target="\_blank"} on psuedo DNA-protein alignment at GIW/ISCB-Asia 2022 at Tainan, Taiwan.
 
 - date: Feb 4, 2022
-  headline: Anish, Joyce, and Kyle's [work](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08278-7){:target="\_blank"} on assembly-free method for gene expression analyis in non-model organisms is published in BMC Genomics.
+  headline: Anish, Joyce, and Kyle's [work](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08278-7){:target="\_blank"} on assembly-free method for gene expression analysis in non-model organisms is published in BMC Genomics.

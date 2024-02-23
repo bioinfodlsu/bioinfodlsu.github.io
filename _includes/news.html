@@ -15,7 +15,11 @@
     <h4 style="margin-top: 0.25em">News</h4>
 
     {% for article in site.data.news limit:5 %}
-    <p><b>{{ article.date }}</b><br />{{ article.headline | markdownify}}</p>
+    <p><b>{{ article.date }}</b><br />{{ article.headline | markdownify}}
+    {% if article.pic != nil %}
+    <img src="images/news/{{ article.pic }}" width=100% >
+    {% endif %}
+    </p>
     {% endfor %}
 
     <h5 style="margin-top: 1.5em">
