@@ -6,7 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-### Journal Articles and Conference Presentations
+### Journal Articles & Conference Presentations
+
+<br>
 
 <!--
 {% assign number_printed = 0 %}

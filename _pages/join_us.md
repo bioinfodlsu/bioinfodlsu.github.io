@@ -6,7 +6,7 @@ sitemap: false
 permalink: /join_us/
 ---
 
-### Join us
+### Join Us
 
 Are you energetic, driven, and curious? <br>
 Are you intrigued by the mysterious and wonderful mechanisms of the phenomemon we call life? <br>
