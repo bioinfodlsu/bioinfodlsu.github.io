@@ -24,10 +24,13 @@ See some of our [projects](projects), [publications](publications), and [softwar
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <!-- <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <!-- <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
+
+    <!-- IMPORTANT: Make sure that the number of items (div below) is the same
+    as the number of carousel indicators (div above) -->
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
@@ -41,7 +44,7 @@ See some of our [projects](projects), [publications](publications), and [softwar
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf2.PNG" alt="RicePilaf - Module Graph" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/crabs_DEG.png" alt="RicePilaf - Module Graph" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/crabs_DEG.png" alt="Crabs - DEG" />
         </div>
     </div>
 

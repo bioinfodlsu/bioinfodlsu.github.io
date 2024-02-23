@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# People
+### People
 
-## Faculty members
+#### Faculty Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.members_faculty %}
@@ -81,7 +81,7 @@ permalink: /team/
 
 <br>
 
-## Student members
+#### Student Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.members_students %}
@@ -145,8 +145,10 @@ permalink: /team/
 
 <br>
 
-## Past members
+#### Past Members
 
+<div id="past-members-div">
 {% for member in site.data.members_alumni %}
 {{ member.name }}
 {% endfor %}
+</div>

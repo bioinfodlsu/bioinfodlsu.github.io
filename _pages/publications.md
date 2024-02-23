@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-### Journal articles and conference presentations
+### Journal Articles and Conference Presentations
 
 <!--
 {% assign number_printed = 0 %}
@@ -52,6 +52,7 @@ permalink: /publications/
 
 {% assign publi_grouped = site.data.publist | group_by: "year" | sort: "name" | reverse %}
 {% for group in publi_grouped %}
+
 <h4>{{group.name}}</h4>
 {% for publi in group.items %}
 
