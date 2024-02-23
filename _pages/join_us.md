@@ -5,6 +5,7 @@ excerpt: "Bioinfo Lab: Join us"
 sitemap: false
 permalink: /join_us/
 ---
+
 # Join us
 
 Are you energetic, driven, and curious? <br>
@@ -14,9 +15,10 @@ Are you interested in advanced algorithms and data-structures? <br>
 How about hardware acceleration of algorithms? <br>
 Are you keen about machine learning? <br>
 
-If you answered yes to many of these questions, definitely contact us !
+If you answered yes to many of these questions, definitely contact us!
 
 ### FAQs
+
 Q: Do I need to know a lot of biology? <br>
 A: It helps, but we can design projects for you that need only the very basic understanding of biology.
 
