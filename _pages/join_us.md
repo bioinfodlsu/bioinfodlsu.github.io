@@ -6,12 +6,12 @@ sitemap: false
 permalink: /join_us/
 ---
 
-# Join us
+### Join us
 
 Are you energetic, driven, and curious? <br>
 Are you intrigued by the mysterious and wonderful mechanisms of the phenomemon we call life? <br>
 Do you like programming? <br>
-Are you interested in advanced algorithms and data-structures? <br>
+Are you interested in advanced algorithms and data structures? <br>
 How about hardware acceleration of algorithms? <br>
 Are you keen about machine learning? <br>
 

@@ -78,7 +78,7 @@ pubtit {
 }
 
 
-/* Carusel */
+/* Carousel */
 
 .carousel {
     border-radius: 3px 3px 3px 3px;
@@ -162,4 +162,9 @@ body {
 .proj-item-container {
 	margin-left: 15px;
 	margin-right: 15px;
+}
+
+/* Past Members */
+#past-members-div p {
+	margin-bottom: 0.25em;
 }
