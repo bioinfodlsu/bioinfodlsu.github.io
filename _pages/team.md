@@ -8,6 +8,8 @@ permalink: /team/
 
 ### People
 
+<br>
+
 #### Faculty Members
 
 {% assign number_printed = 0 %}
