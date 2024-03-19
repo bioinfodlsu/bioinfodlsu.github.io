@@ -37,7 +37,7 @@
   year: 2023
 
 - title: "DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms"
-  image: dummy.png
+  image: alignment.png
   description:
   authors: Kyle Christian L. Santiago, Anish M.S. Shrestha
   link:
@@ -57,7 +57,7 @@
   year: 2022
 
 - title: Complementary Preparation for Frame Alignment Algorithms Using PYNQ-Z2 FPGA
-  image: dummy.png
+  image: fpga.png
   description:
   authors: Aaron Eldrich Wong, Carlos Louis Ting, Stanley Vincent Lim, Steven Edward Lim, Roger Luis Uy, Rayner Alfred, Zamhar Iswandono
   link:
@@ -67,7 +67,7 @@
   year: 2022
 
 - title: "SIMD Implementation of Modified Zhang's Three-Frame Alignment Algorithm"
-  image: dummy.png
+  image: zhang.png
   description:
   authors: Stanley Vincent Lim, Steven Edward Lim, Carlos Louis Ting, Aaron Eldrich Wong, Roger Luis Uy
   link:
@@ -77,7 +77,7 @@
   year: 2021
 
 - title: "Identifying drug-resistant tuberculosis from chest X-ray images using a simple convolutional neural network"
-  image: dummy.png
+  image: tb.png
   description:
   authors: Jennifer Ureta, Anish M.S. Shrestha
   link:
@@ -87,7 +87,7 @@
   year: 2021
 
 - title: "Comparative transcriptome profiling of heat stress response of the mangrove crab Scylla serrata across different sites"
-  image: dummy.png
+  image: crab.png
   description:
   authors: Anish M.S. Shrestha, Crissa Ann I. Lilagan, Joyce Emlyn B. Guiao, Maria Rowena R. Romana-Eguia, Ma. Carmen Ablan Lagman
   link:
@@ -97,7 +97,7 @@
   year: 2021
 
 - title: "Multiprocessing Implementation for Building a DNA q-gram Index Hash Table"
-  image: dummy.png
+  image: hash.png
   description:
   authors: Candace Claire Mercado, Aaron Russell Fajardo, Saira Kaye Manalili, Raphael Zapanta, Roger Luis Uy
   link:
@@ -107,7 +107,7 @@
   year: 2021
 
 - title: "Multiprocessing Implementation of Pigeonhole-based Filter for DNA Read Mapping"
-  image: dummy.png
+  image: pigeonhole.png
   description:
   authors: Roger Luis Uy, Candace Claire Mercado, Aaron Russell Fajardo, Raphael Zapanta, Saira Kaye Manalili
   link:
@@ -117,7 +117,7 @@
   year: 2021
 
 - title: "Wide-and-shallow vs. narrow-and-deep: comparing two transcriptome assemblies of S. serrata"
-  image: dummy.png
+  image: wide-and-shallow.png
   description:
   authors: Anish M.S. Shrestha, Crissa Ann I. Lilagan, Ma. Carmen A. Lagman
   link:
@@ -127,7 +127,7 @@
   year: 2021
 
 - title: "On the Complexity of Reducing Storage for DNA q-gram Index Hash Table"
-  image: dummy.png
+  image: qgram.png
   description:
   authors: Candace Claire Mercado, Saira Kaye Manalili, Aaron Russell Fajardo, Raphael Zapanta, Roger Luis Uy
   link:
@@ -136,8 +136,8 @@
   highlight: 0
   year: 2020
 
-- title: "Implementation of hyyrö’s bit-vector algorithm using advanced vector extensions 2"
-  image: dummy.png
+- title: "Implementation of hyyrö's bit-vector algorithm using advanced vector extensions 2"
+  image: hyrro.png
   description:
   authors: Kyle Matthew Chan Chua, Janz Aeinstein Fauni Villamayor, Lorenzo Campos Bautista, Roger Luis Uy
   link:
@@ -147,7 +147,7 @@
   year: 2019
 
 - title: "Grouped-alignment of RNA-seq reads for accurate prediction of splice sites"
-  image: dummy.png
+  image: rna-splice.png
   description:
   authors: Anish M.S. Shrestha
   no-link: 6th International Conference on Molecular Systems Biology (ICMSB), Manila, Philippines, Oct. 28–30, 2019
@@ -155,15 +155,16 @@
   year: 2019
 
 - title: "Challenges in Sequence Analysis in the Era of Big Biological Data"
-  image: dummy.png
+  image: biology.jpg
   description:
   authors: Anish M.S. Shrestha
   no-link: 19th Philippine Computing Science Congress (PCSC), Manila, Philippines, March 28–30, 2019
   highlight: 0
   year: 2019
+  # Attribution: https://img.freepik.com/free-vector/science-lab-objects_23-2148488312.jpg?w=740&t=st=1710859279~exp=1710859879~hmac=6641bb603c4c356cf3196fd379620eb147dae54cf36c48720c1cb3b5ff253acb
 
 - title: "Biological sequence analysis in the era of high-throughput sequencers"
-  image: dummy.png
+  image: sequence.png
   description:
   authors: Anish M.S. Shrestha
   no-link: Bioinformatics Symposium, Philippine Genome Center, Manila, Philippines
