@@ -7,8 +7,8 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Franz S. Dizon
-  photo: rock.jpg
+- name: Jane C. Wong
+  photo: jane.jpg
   info: MS Computer Science
   email: a@b.c
   number_educ: 0
@@ -58,7 +58,7 @@
 
 - name: Alfonso M. Cruz
   photo: miguel.jpg
-  info: BS Computer Science
+  info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
   education1:
