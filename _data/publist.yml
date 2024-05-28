@@ -16,6 +16,13 @@
   highlight: 0
   year: 2024
 
+- title: Performance of various protein representations for predicting phage-host interaction
+  image: phages.png
+  description:
+  authors: Franz Stewart V. Dizon, Jennifer Ureta, Anish M.S. Shrestha
+  no-link: 24th Philippine Computing Science Congress 2024
+  year: 2024
+
 - title: "Protein embeddings improve phage-host interaction prediction"
   image: mark_phi.png
   description:
