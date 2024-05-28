@@ -43,7 +43,7 @@
   education1:
 
 - name: Therese Ureta
-  photo: rock.jpg
+  photo: proteins.png
   info: BS Computer Science
   email: a@b.c
   number_educ: 0
@@ -57,14 +57,14 @@
   education1:
 
 - name: Luis G. Roxas
-  photo: rock.jpg
-  info: BS Computer Science
+  photo: plasmids.png
+  info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
   education1:
 
 - name: Jiaan Santos
-  photo: rock.jpg
+  photo: phages.png
   info: MS Biology (supervised by Dr. Llewelyn Espiritu)
   email: a@b.c
   number_educ: 0
