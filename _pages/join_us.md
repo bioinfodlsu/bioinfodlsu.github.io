@@ -8,12 +8,12 @@ permalink: /join_us/
 
 ### Join Us!
 Are you searching for a lab for your undergraduate or graduate thesis project? <br>
-Or perhaps intrigued by the mysterious and wonderful mechanisms of this phenomenon we call life?
+Or perhaps intrigued by the mysteries and wonders of this phenomenon we call life?
 
 We're looking for energetic and driven students who are:
 - Curious to investigate the biological mechanisms within and around us
 - Passionate in designing algorithms and developing software, pipelines, and machine learning models
-- Eager to analyze trends and unlock insights from biological data
+- Eager to analyze trends and uncover insights from biological data
 - Interested in hardware acceleration of bioinformatics algorithms
 
 Please go over our [projects](/projects), our [publications](/publications), and our [GitHub repositories](http://github.com/bioinfodlsu){:target="\_blank"}. 
@@ -34,7 +34,7 @@ Q: What are some references that I could use to get started on bioinformatics? <
 A: You may view our [survival guide](https://bioinfodlsu.com/bioinfodlsu-survival-guide/intro.html) to see what resources you can use to get started on learning bioinformatics.
 
 Q: What programming languages do we need to know for bioinformatics? <br>
-A: Python and R have a wide array of packages for bioinformatics analysis. But the choice of language really depends on the type of project you are creating (for example, if you are writing a tool where speed is critical, then C++ or Rust are good choices).
+A: Python and R are widely used for bioinformatics analysis. But the choice of language really depends on the type of project you are creating (for example, if you are writing a tool where speed is critical, then C++ or Rust are good choices).
 
 Q: What are some research projects that I could do for my thesis? <br>
 A: You may view our [projects](/projects), [publications](/publications), and [GitHub repositories](http://github.com/bioinfodlsu){:target="\_blank"} to see what type of research projects we have done so far that may interest you.
