@@ -25,7 +25,7 @@
   no-link: 24th Philippine Computing Science Congress (PCSC), Laguna, Philippines, May 9–11, 2024
   year: 2024
 
-- title: FrameRL DNA to Protein Sequence Alignment using Deep Reinforcement Learning
+- title: FrameRL: DNA to Protein Sequence Alignment using Deep Reinforcement Learning
   image: reinforcement_learning_diagram.png
   description:
   authors: Wai Kei Li, Justin Ayuyao, John Carlo Joyo, Renz Ezekiel Cruz, Roger Luis Uy
