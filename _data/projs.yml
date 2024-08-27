@@ -32,3 +32,8 @@
   image: sequence_alignment.png
   description: Algorithms involving DNA/RNA to DNA/RNA (i.e., sequence alignment) or DNA/RNA to protein (i.e., frame alignment) can be sped up using various parallel computing techniques. Some past projects include alignment algorithms using single instruction multiple data (SIMD) based on x86 AVX instruction sets, or using single instruction multiple threads (SIMT) based on the NVIDIA CUDA platform and customized hardware configuration based on PYNQ Z2 field programmable gate array (FPGA).
   # Attribution: https://cdn-icons-png.flaticon.com/512/11359/11359324.png
+
+- title: Exploring applications of biological language models
+  image: molecule.png
+  description: Representing biological sequences as numerical vectors is the first step in building machine learning tools for any bioinformatics task. However, since sequences can be characterized using hundreds of properties, it is difficult to select which features are most likely to be informative. This challenge has motivated the development of biological language models. By learning patterns from large-scale protein databases, these models are able to automatically transform sequences into vectors that have been shown to capture aspects of the "grammar of life." Our lab has been working on applying these biological language models to important downstream tasks such as predicting phage-host interaction.
+  # Attribution: https://cdn-icons-png.flaticon.com/512/11359/11359324.png
