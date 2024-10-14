@@ -12,7 +12,7 @@
 </div>
 
 <div class="well">
-    <h4 style="margin-top: 0.25em">News</h4>
+    <h4 style="margin-top: 0.25em">News & Events</h4>
 
     {% for article in site.data.news limit:5 %}
     <p><b>{{ article.date }}</b><br />{{ article.headline | markdownify}}
