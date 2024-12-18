@@ -1,3 +1,27 @@
+<<<<<<< Updated upstream
+=======
+- date: Nov 6, 2024
+  headline: Jenny presents our [work](https://www.biorxiv.org/content/10.1101/2024.08.24.609479v1){:target="\_blank"} on the application of structure-aware protein language models to phage-host interaction prediction at the Australian Bioinformatics and Computational Biology Society National Conference in Sydney.
+  pic: 20241106_ABACBS.jpg
+
+- date: Nov 4, 2024
+  headline: Mark begins his short-term research engagement at A*STAR, Singapore, under the Singapore International Pre-Graduate Award.
+
+- date: Oct 26, 2024
+  headline: Kyle and Anish's work on psuedo DNA-protein alignment for rapid differential gene expression analysis, presented at GIW/ISCB-Asia 2022 is (finally!) published in [BMC Bioinformatics](https://doi.org/10.1186/s12859-024-05924-1){:target="\_blank"}.
+
+- date: Oct 1, 2024
+  headline: Arya Kaul, Ph.D. candidate at Harvard Medical School, talks to the lab about his work on rapid detection of deletion-born fusion genes across all sequenced bacteria.
+  pic: 20241001_arya-talk.png
+
+- date: Oct 1, 2024
+  headline: Jiaan presents our work on metagenomic profiling of hospital wastewater at the 24th Annual Symposium of the Philippine Network of Microbial Culture Collections.
+  pic: 20241001_PNMCC_Jiaan.jpeg
+
+- date: Aug 26, 2024
+  headline: Our [new preprint](https://www.biorxiv.org/content/10.1101/2024.08.24.609479v1){:target="\_blank"} on the application of structure-aware protein language models to phage-host interaction prediction has been posted on bioRxiv.
+
+>>>>>>> Stashed changes
 - date: July 15, 2024
   headline: Anish speaks at the 33rd Annual Meeting of the Philippine Academy of Microbiology.
   pic: 20240715_PAM.png
@@ -11,7 +35,7 @@
   headline: Anish, Mark, and Phoebe's [work](https://doi.org/10.1093/gigascience/giae013){:target="\_blank"} with IRRI, RDA South Korea, and IRD France on creating a dashboard for rice post-GWAS/QTL analysis is published in GigaScience.
 
 - date: May 10, 2024
-  headline: Franz presents his work that benchmarks protein embeddings at the 24th Philippine Computing Science Congress.
+  headline: Franz presents his [work](https://pcsc.dlsu.edu.ph/proceedings/main-conference/21.pdf){:target="\_blank"} that benchmarks protein embeddings at the 24th Philippine Computing Science Congress.
   pic: 20240510_Franz_talk.JPEG
 
 - date: May 8, 2024
