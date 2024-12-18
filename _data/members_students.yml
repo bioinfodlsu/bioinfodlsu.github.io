@@ -14,13 +14,6 @@
   number_educ: 0
   education1:
 
-- name: Paul K. Yu
-  photo: paul-yu.jpg
-  info: MS Math
-  email: a@b.c
-  number_educ: 0
-  education1:
-
 - name: Jose Miguel Leyesa
   photo: proteins.png
   info: MS Computer Science
@@ -29,7 +22,7 @@
   education1:
 
 - name: Josef Paolo Manlapaz
-  photo: proteins.png
+  photo: josef.png
   info: MS Computer Science
   email: a@b.c
   email: a@b.c

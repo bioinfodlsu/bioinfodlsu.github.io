@@ -19,6 +19,16 @@
   highlight: 0
   year: 2024
 >>>>>>> Stashed changes
+- title: "DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms"
+  image: alignment.png
+  description:
+  authors: Kyle Christian L. Santiago, Anish M.S. Shrestha
+  link:
+      url: https://doi.org/10.1186/s12859-024-05924-1
+      display: BMC Bioinformatics 25 (Suppl 2), 335
+  highlight: 0
+  year: 2024
+
 
 - title: "RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, co-expression, regulatory, epigenomic, ontology, pathway, and text-mining information to provide functional insights into rice QTLs and GWAS loci"
   image: rice_pilaf.png
@@ -72,9 +82,7 @@
   image: alignment.png
   description:
   authors: Kyle Christian L. Santiago, Anish M.S. Shrestha
-  link:
-      url: https://doi.org/10.1101/2022.12.15.520671
-      display: GIW XXXI/ISCB-Asia V, Tainan, Taiwan, Dec. 12–14, 2022 (To appear in BMC Bioinformatics Supplement)
+  no-link: GIW XXXI/ISCB-Asia V, Tainan, Taiwan, Dec. 12–14, 2022
   highlight: 0
   year: 2022
 
