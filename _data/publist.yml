@@ -12,19 +12,18 @@
   description:
   authors: Kyle Christian L. Santiago, Anish M.S. Shrestha
   link:
-      url: https://doi.org/10.1186/s12859-024-05924-1
-      display: BMC Bioinformatics 25 (Suppl 2), 335
+    url: https://doi.org/10.1186/s12859-024-05924-1
+    display: BMC Bioinformatics 25 (Suppl 2), 335
   highlight: 0
   year: 2024
-
 
 - title: "RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, co-expression, regulatory, epigenomic, ontology, pathway, and text-mining information to provide functional insights into rice QTLs and GWAS loci"
   image: rice_pilaf.png
   description:
   authors: Anish M.S. Shrestha, Mark Edward M. Gonzales, Phoebe Clare L. Ong, Pierre Larmande, Hyun-Sook Lee, Ji-Ung Jeung, Ajay Kohli, Dmytro Chebotarov, Ramil P. Mauleon, Jae-Sung Lee, Kenneth L. McNally
   link:
-      url: https://doi.org/10.1093/gigascience/giae013
-      display: GigaScience 13, giae013
+    url: https://doi.org/10.1093/gigascience/giae013
+    display: GigaScience 13, giae013
   highlight: 0
   year: 2024
 
@@ -32,14 +31,18 @@
   image: phages.png
   description:
   authors: Franz Stewart V. Dizon, Jennifer Ureta, Anish M.S. Shrestha
-  no-link: 24th Philippine Computing Science Congress (PCSC), Laguna, Philippines, May 9–11, 2024
+  link:
+    url: https://pcsc.dlsu.edu.ph/proceedings/main-conference/21.pdf
+    display: 24th Philippine Computing Science Congress (PCSC), Laguna, Philippines, May 9–11, 2024
   year: 2024
 
 - title: "FrameRL: DNA to Protein Sequence Alignment using Deep Reinforcement Learning"
   image: reinforcement_learning_diagram.png
   description:
   authors: Wai Kei Li, Justin Ayuyao, John Carlo Joyo, Renz Ezekiel Cruz, Roger Luis Uy
-  no-link: 24th Philippine Computing Science Congress (PCSC) Student Research Workshop, Laguna, Philippines, May 9–11, 2024
+  link:
+    url: https://pcsc.dlsu.edu.ph/proceedings/student-research-workshop/64.pdf
+    display: 24th Philippine Computing Science Congress (PCSC) Student Research Workshop, Laguna, Philippines, May 9–11, 2024
   year: 2024
 
 - title: "Protein embeddings improve phage-host interaction prediction"
@@ -47,8 +50,8 @@
   description:
   authors: Mark Edward M. Gonzales, Jennifer C. Ureta, Anish M.S. Shrestha
   link:
-      url: https://doi.org/10.1371/journal.pone.0289030
-      display: PLOS ONE 18(7), e0289030
+    url: https://doi.org/10.1371/journal.pone.0289030
+    display: PLOS ONE 18(7), e0289030
   highlight: 0
   year: 2023
 
@@ -57,8 +60,8 @@
   description:
   authors: Liu Liu, Ann Franchesca Laguna, Ramin Rajaei, Mohammad Mehdi Sharifi, Arman Kazemi, Xunzhao Yin, Michael Niemier, Xiaobo Sharon Hu
   link:
-      url: https://doi.org/10.1109/TCSI.2023.3259940
-      display: "IEEE Transactions on Circuits and Systems I: Regular Papers, 70(6), pp. 2356–2369"
+    url: https://doi.org/10.1109/TCSI.2023.3259940
+    display: "IEEE Transactions on Circuits and Systems I: Regular Papers, 70(6), pp. 2356–2369"
   highlight: 0
   year: 2023
 
@@ -75,8 +78,8 @@
   description:
   authors: Anish M.S. Shrestha, Joyce Emlyn B. Guiao, Kyle Christian L. Santiago
   link:
-      url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08278-7
-      display: BMC Genomics 23, 97
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08278-7
+    display: BMC Genomics 23, 97
   highlight: 0
   year: 2022
 
@@ -85,8 +88,8 @@
   description:
   authors: Aaron Eldrich Wong, Carlos Louis Ting, Stanley Vincent Lim, Steven Edward Lim, Roger Luis Uy, Rayner Alfred, Zamhar Iswandono
   link:
-      url: https://link.springer.com/chapter/10.1007/978-981-19-8406-8_23
-      display: Proceeedings of the 9th International Conference on Computational Science and Technology, Johor Bahru, Malaysia, Aug. 27–28, 2022, pp. 317–326
+    url: https://link.springer.com/chapter/10.1007/978-981-19-8406-8_23
+    display: Proceeedings of the 9th International Conference on Computational Science and Technology, Johor Bahru, Malaysia, Aug. 27–28, 2022, pp. 317–326
   highlight: 0
   year: 2022
 
@@ -95,8 +98,8 @@
   description:
   authors: Stanley Vincent Lim, Steven Edward Lim, Carlos Louis Ting, Aaron Eldrich Wong, Roger Luis Uy
   link:
-      url: https://ieeexplore.ieee.org/abstract/document/9731997
-      display: 2021 IEEE 13th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM), Manila, Philippines, Nov. 28–30, 2021, pp. 1–6
+    url: https://ieeexplore.ieee.org/abstract/document/9731997
+    display: 2021 IEEE 13th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM), Manila, Philippines, Nov. 28–30, 2021, pp. 1–6
   highlight: 0
   year: 2021
 
@@ -105,8 +108,8 @@
   description:
   authors: Jennifer Ureta, Anish M.S. Shrestha
   link:
-      url: https://iopscience.iop.org/article/10.1088/1742-6596/2071/1/012001
-      display: "Journal of Physics: Conference Series, 2071; 2021 International Conference on Biomedical Engineering (ICoBE), Malaysia, Sept. 14–15, 2021"
+    url: https://iopscience.iop.org/article/10.1088/1742-6596/2071/1/012001
+    display: "Journal of Physics: Conference Series, 2071; 2021 International Conference on Biomedical Engineering (ICoBE), Malaysia, Sept. 14–15, 2021"
   highlight: 0
   year: 2021
 
@@ -115,8 +118,8 @@
   description:
   authors: Anish M.S. Shrestha, Crissa Ann I. Lilagan, Joyce Emlyn B. Guiao, Maria Rowena R. Romana-Eguia, Ma. Carmen Ablan Lagman
   link:
-      url: https://doi.org/10.1186/s12864-021-07891-w
-      display: BMC Genomics 22, 580
+    url: https://doi.org/10.1186/s12864-021-07891-w
+    display: BMC Genomics 22, 580
   highlight: 0
   year: 2021
 
@@ -125,8 +128,8 @@
   description:
   authors: Candace Claire Mercado, Aaron Russell Fajardo, Saira Kaye Manalili, Raphael Zapanta, Roger Luis Uy
   link:
-      url: https://doi.org/10.1007/978-981-33-4069-5_16
-      display: Computational Science and Technology, Lecture Notes in Electrical Engineering, 724, pp. 179–191
+    url: https://doi.org/10.1007/978-981-33-4069-5_16
+    display: Computational Science and Technology, Lecture Notes in Electrical Engineering, 724, pp. 179–191
   highlight: 0
   year: 2021
 
@@ -135,8 +138,8 @@
   description:
   authors: Roger Luis Uy, Candace Claire Mercado, Aaron Russell Fajardo, Raphael Zapanta, Saira Kaye Manalili
   link:
-      url: https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2021/HCT-01.pdf
-      display: 2021 DLSU Research Congress, Manila, Philippines, July 7–9, 2021
+    url: https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2021/HCT-01.pdf
+    display: 2021 DLSU Research Congress, Manila, Philippines, July 7–9, 2021
   highlight: 0
   year: 2021
 
@@ -145,8 +148,8 @@
   description:
   authors: Anish M.S. Shrestha, Crissa Ann I. Lilagan, Ma. Carmen A. Lagman
   link:
-      url: https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2020/FNH-11.pdf
-      display: 2020 DLSU Research Congress, Manila, Philippines, June 17–19, 2020
+    url: https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2020/FNH-11.pdf
+    display: 2020 DLSU Research Congress, Manila, Philippines, June 17–19, 2020
   highlight: 0
   year: 2020
 
@@ -155,8 +158,8 @@
   description:
   authors: Candace Claire Mercado, Saira Kaye Manalili, Aaron Russell Fajardo, Raphael Zapanta, Roger Luis Uy
   link:
-      url: https://drive.google.com/file/d/1ZiMHBPvbUVpPeOBSBH1KEMehkd1vlQl-/view
-      display: 20th Philippine Computing Science Congress (PCSC), Baguio, Philippines, March 19–21, 2020, pp. 118–124
+    url: https://drive.google.com/file/d/1ZiMHBPvbUVpPeOBSBH1KEMehkd1vlQl-/view
+    display: 20th Philippine Computing Science Congress (PCSC), Baguio, Philippines, March 19–21, 2020, pp. 118–124
   highlight: 0
   year: 2020
 
@@ -165,8 +168,8 @@
   description:
   authors: Kyle Matthew Chan Chua, Janz Aeinstein Fauni Villamayor, Lorenzo Campos Bautista, Roger Luis Uy
   link:
-      url: https://doi.org/10.26555/ijain.v5i3.362
-      display: International Journal of Advances in Intelligent Informatics, 5(3), pp. 230–242
+    url: https://doi.org/10.26555/ijain.v5i3.362
+    display: International Journal of Advances in Intelligent Informatics, 5(3), pp. 230–242
   highlight: 0
   year: 2019
 
