@@ -7,6 +7,16 @@
 #    display: arXiv:2205.10346 (2022)
 #  highlight: 1
 #  year: 2022
+- title: "PHIStruct: Improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings"
+  image: phistruct.PNG
+  description:
+  authors: Mark Edward M. Gonzales, Jennifer C. Ureta, Anish M.S. Shrestha
+  link:
+    url: https://doi.org/10.1093/bioinformatics/btaf016
+    display: Bioinformatics, btaf016
+  highlight: 0
+  year: 2025
+
 - title: "DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms"
   image: alignment.png
   description:
