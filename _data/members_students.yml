@@ -14,13 +14,6 @@
   number_educ: 0
   education1:
 
-- name: Jose Miguel Leyesa
-  photo: proteins.png
-  info: MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
 - name: Josef Paolo Manlapaz
   photo: josef.png
   info: MS Computer Science
@@ -29,23 +22,8 @@
   number_educ: 0
   education1:
 
-- name: Kim W. Lee, Jra.
-  photo: kim.jpg
-  info: BS-MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
 - name: Daphne J. Go
   photo: daphne.jpg
-  info: BS-MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-
-- name: Alfonso M. Cruz
-  photo: miguel.jpg
   info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
@@ -58,17 +36,51 @@
   number_educ: 0
   education1:
 
-- name: Jiaan Santos
-  photo: jiaan.jpg
-  info: MS Biology 
+- name: Daniella Ughoc
+  photo: dani.jpg
+  info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
   education1:
 
-- name: Therese Ureta
-  photo: proteins.png
-  info: BS Computer Science
+- name: Rowell Herrera
+  photo: rowell.png
+  info: BS-MS Computer Science
   email: a@b.c
   number_educ: 0
   education1:
 
+- name: Marvin Ivan Mangubat
+  photo: marvin.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Kurt Christian Andaya
+  photo: kurt.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Roan Cedric Campo
+  photo: rock.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Lance Xavier Lim
+  photo: rock.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
+
+- name: Enzo Rafael Chan
+  photo: rock.jpg
+  info: BS-MS Computer Science
+  email: a@b.c
+  number_educ: 0
+  education1:
