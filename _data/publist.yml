@@ -7,6 +7,16 @@
 #    display: arXiv:2205.10346 (2022)
 #  highlight: 1
 #  year: 2022
+- title: "Investigating the resistome, taxonomic composition, and mobilome of bacterial communities in hospital wastewaters of Metro Manila using a shotgun metagenomics approach"
+  image: amr.png
+  description:
+  authors: Jiaan Carlo E. Santos, Daphne Janelyn L. Go, Robert D. Unciano, Paul K. Yu, Angelyn R. Lao, Ma. Luisa D. Enriquez, Llewelyn M. Espiritu, Anish M. S. Shrestha
+  link:
+    url: https://doi.org/10.1128/spectrum.03963-25
+    display: Microbiology Spectrum, 0:e03963-25
+  highlight: 0
+  year: 2026
+
 - title: "PHIStruct: Improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings"
   image: phistruct.PNG
   description:
