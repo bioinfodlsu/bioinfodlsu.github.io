@@ -1,3 +1,6 @@
+- date: Oct 16, 2026
+  headline: A [new preprint](https://www.biorxiv.org/content/10.64898/2026.10.14.759091v1) describing Harvey's work on a simpler and faster model for frameshift-aware DNA-protein profile alignment is now on bioRxiv.
+
 - date: July 29, 2026
   headline: Josef succesfully defends his MSCS thesis on prioritizing SNPs within rice GWAS loci by predicting their association to histone modifications and chromatin accessibility, using a DNA language model fine-tuned on rice ChIP-seq and ATAC-seq datasets. A preprint describing his work is [available on bioRxiv](https://doi.org/10.64898/2026.07.24.740656).
 
