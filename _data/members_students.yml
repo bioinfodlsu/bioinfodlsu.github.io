@@ -7,12 +7,6 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Jane C. Wong
-  photo: jane.jpg
-  info: MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
 
 - name: Josef Paolo Manlapaz
   photo: josef.png
@@ -57,12 +51,6 @@
   number_educ: 0
   education1:
 
-- name: Kurt Christian Andaya
-  photo: kurt.jpg
-  info: BS-MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
 
 - name: Roan Cedric Campo
   photo: roan.jpeg
